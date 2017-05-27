@@ -8,5 +8,6 @@
 		custType.add("vip会员");
 		custType.add("普通");
 		custType.add("青铜");
+                custType.add("白银");
 		return custType;
 	}
